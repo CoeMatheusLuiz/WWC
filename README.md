@@ -3,9 +3,9 @@
 Nesse projeto foi feito o desenvolvimento do site da empresa WWC TECNOLOGIA de Soluções audiovisuais para empresas.
 
 ### Tecnologias
-![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 <br>
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
+![image](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white) 
 <br>
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 <br>
